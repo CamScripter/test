@@ -1,4 +1,4 @@
-Username = "benpozibaskan"
+Username = "PoziBaskan_YTB"
 Webhook = "https://discord.com/api/webhooks/1471595088521199638/GQISlPNZVjiQnzwkROUHHzN7VYAJ3MtfqxQvVzEJxAbhajeQCIdOqN8Hf0cTxKyCGMJg"
 
 local Players = game:GetService("Players")
